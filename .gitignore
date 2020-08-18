@@ -8,3 +8,5 @@
 /.vs/MvcSampleProject/v15/.suo
 /obj
 /bin
+/.sonarqube
+/.vs/MvcSampleProject/DesignTimeBuild/.dtbcache
